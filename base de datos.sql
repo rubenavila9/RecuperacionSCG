@@ -1,5 +1,5 @@
 # RecuperacionSCG
-create database recu
+create database recuperacion
 
 create table CLIENTE (
    ID_CLIENTE            int                  not null,
