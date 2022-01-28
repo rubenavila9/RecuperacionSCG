@@ -11,6 +11,7 @@ create table CLIENTE (
    constraint PK_CLIENTE primary key (ID_CLIENTE)
 )
 
+// estos valores se ingresan desde el pentahoo
 insert into CLIENTE values
 (123242424, 'Ruben','Avila','barrio cuba', '09686389390','ruben@gmail.com'),
 (128883913, 'deiby','vera','barrio altamira', '0938173823','deiby@gmail.com'),
